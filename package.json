@@ -1,0 +1,22 @@
+{
+  "name": "qrurl",
+  "version": "0.1.0",
+  "description": "Generate a QRCode from the page URL",
+  "main": "qrurl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kostasx/qrcode-from-URL-bookmarklet.git"
+  },
+  "keywords": [
+    "qrcode"
+  ],
+  "author": "KostasX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kostasx/qrcode-from-URL-bookmarklet/issues"
+  },
+  "homepage": "https://github.com/kostasx/qrcode-from-URL-bookmarklet#readme"
+}
