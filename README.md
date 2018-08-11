@@ -2,7 +2,7 @@
 
 Generate and display a QRCode from the URL
 
-![QRCode Generator Bookmarklet](https://github.com/kostasx/qrcode-from-URL-bookmarklet/blob/master/qrcode.jpg "QRCode Generator Bookmarklet")
+![QRCode Generator Bookmarklet](https://github.com/kostasx/qrcode-from-URL-bookmarklet/blob/master/qrurl.gif "QRCode Generator Bookmarklet")
 
 ## Installation
 
